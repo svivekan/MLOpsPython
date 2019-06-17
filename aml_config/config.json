@@ -1,6 +1,6 @@
 {
-    "subscription_id": "<>",
-    "resource_group": "Svivekan_DevOps_AzureML_Demo",
-    "workspace_name": "AzureML_Demo_Workspace",
+    "subscription_id": "38502671-55d1-4260-921a-2803653552de",
+    "resource_group": "AzureMLOps",
+    "workspace_name": "svivekan-workspace",
     "location": "westeurope"
 }
